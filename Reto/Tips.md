@@ -19,12 +19,16 @@ for i in range(10):
 Benjamín Alexander Salass
 
 > [!TIP]
-> Se puede agregar un índice automático con e(#):
+> Se puede agregar un índice automático con el ([[_TOC_]]):
 
-```md
-#
+```
+[[_TOC_]]
 1. Primera sección 
 1. Segunda sección 
-    ```
+```
+
+[[_TOC_]]
+1.Primera sección 
+1.Seegunda sección 
 
 <!-- Sección de tips - FIN -->
