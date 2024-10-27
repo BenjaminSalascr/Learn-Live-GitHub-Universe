@@ -16,7 +16,15 @@ for i in range(10):
 
 
 <!-- Sección de tips -->
+Benjamín Alexander Salass
 
+> [!TIP]
+> Se puede agregar un índice automático con e(#):
 
+```md
+#
+1. Primera sección 
+1. Segunda sección 
+    ```
 
 <!-- Sección de tips - FIN -->
